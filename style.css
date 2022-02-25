@@ -135,7 +135,9 @@ ul{
     align-items: center;
 }
 
-
+li a{
+    text-decoration: none;
+}
 
 .filler{
     flex: 0.7;
